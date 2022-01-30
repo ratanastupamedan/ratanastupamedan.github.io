@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    $('.loader_bg').fadeToggle();
 
     $(".burger").click(function() {
         $(".burger__menu").show();
